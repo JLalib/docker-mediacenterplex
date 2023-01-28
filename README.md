@@ -7,7 +7,10 @@ Gestionar tus series y películas favoritas con Radarr y Sonarr. Sabrás las fec
 
 
 📑 Más info: 
+
 https://hub.docker.com/r/linuxserver/radarr
+
 https://hub.docker.com/r/linuxserver/sonarr
+
 https://hub.docker.com/r/linuxserver/prowlarr
 
